@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # TcXaeShell Solution File, Format Version 11.00
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{DFBE7525-6864-4E62-8B2E-D530D69D9D96}") = "TwinCAT SPS1", "TwinCAT SPS1\TwinCAT SPS1.tspproj", "{CD9466E0-633E-458A-A0A3-DECF8C5F8D22}"
+Project("{DFBE7525-6864-4E62-8B2E-D530D69D9D96}") = "play", "TwinCAT SPS1\play.tspproj", "{CD9466E0-633E-458A-A0A3-DECF8C5F8D22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
